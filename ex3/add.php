@@ -40,8 +40,8 @@ if (isset($_POST['titre']) && isset($_POST['note'])){
                     endforeach
                 ?>
 </div>
-<?php echo '<h1> <a href="index.php">add here +</a><br> </h1>';
-echo '<h1> <a href="logout.php">logout</a></h1>';?>
+<?php echo '<h1> <a href="./index.php">add here +</a><br> </h1>';
+echo '<h1> <a href="./logout.php">logout</a></h1>';?>
     
 </body>
 </html>

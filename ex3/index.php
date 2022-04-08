@@ -29,9 +29,10 @@
                 <button type="submit" class="btn">Ajouter</button>
             
     </form>
-    <?php echo '<h1> <a href="add.php">check list</a><br> </h1>';
-echo '<h1> <a href="logout.php">logout</a></h1>';?>
+    <?php echo '<h1> <a href="ex3/add.php">check list</a><br> </h1>';
+echo '<h1> <a href="./logout.php">logout</a></h1>';?>
 </div>
+
     <?php
     session_start();
 
